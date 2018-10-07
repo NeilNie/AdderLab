@@ -1,0 +1,43 @@
+Quartus II
+Version 10.0 Build 218 06/27/2010 SJ Full Version
+13
+4402
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+AdderLab
+# storage
+db|AdderLab.(0).cnf
+db|AdderLab.(0).cnf
+# case_insensitive
+# source_file
+adderlab.bdf
+7d08478911fb9c2e95e9e454172b9e
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# complete
+
