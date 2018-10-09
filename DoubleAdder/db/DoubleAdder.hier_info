@@ -1,0 +1,21 @@
+|DoubleAdder
+LEDR[0] <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[1] <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[2] <= inst14.DB_MAX_OUTPUT_PORT_TYPE
+SW[0] => inst.IN0
+SW[0] => inst5.IN0
+SW[0] => inst4.IN0
+SW[1] => inst.IN1
+SW[1] => inst6.IN0
+SW[1] => inst4.IN1
+SW[2] => inst1.IN1
+SW[2] => inst6.IN1
+SW[2] => inst5.IN1
+SW[3] => inst9.IN0
+SW[3] => inst11.IN0
+SW[3] => inst10.IN0
+SW[4] => inst9.IN1
+SW[4] => inst12.IN0
+SW[4] => inst10.IN1
+
+
